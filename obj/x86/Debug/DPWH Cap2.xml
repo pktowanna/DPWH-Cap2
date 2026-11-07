@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DPWH Cap2
+</name>
+</assembly>
+<members>
+<member name="T:DPWH_Cap2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources._2714927_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.arrowmax">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.arrowmaxs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.arrowmin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.arrowmins">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.bx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.Department_of_Public_Works_and_Highways__DPWH__svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.equ_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.equipmenticon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.gasicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.LogoDPWH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.lowstockicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.notificationicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.reqesticon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.stocksicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DPWH_Cap2.My.Resources.Resources.usersettingsicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RISdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RRSPdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PARdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PRSdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.ICSdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.STOCKCARDdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RISgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RRSPgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PARgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PRSgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.ICSgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.REPORTSdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.STOCKCARDgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.DashboardgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.SupplygridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.GASdatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.GASgridDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RISdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RRSPdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PARdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PRSdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.ICSdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.STOCKCARDdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RISgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RRSPgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PARgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PRSgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.ICSgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.REPORTSdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.STOCKCARDgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.DashboardgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.SupplygridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.GASdatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.GASgridRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RISdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RRSPdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PARdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PRSdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.ICSdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.STOCKCARDdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RISgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.RRSPgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PARgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.PRSgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.ICSgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.REPORTSdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.STOCKCARDgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.DashboardgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.SupplygridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.GASdatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DPWH_Cap2.DataSet.GASgridRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

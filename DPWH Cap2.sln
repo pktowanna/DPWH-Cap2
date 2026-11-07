@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DPWH Cap2", "DPWH Cap2.vbproj", "{D5343008-E87A-4F81-A161-3C12D60D806F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Debug|x64.ActiveCfg = Release|x64
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Debug|x64.Build.0 = Release|x64
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Debug|x86.ActiveCfg = Debug|x86
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Debug|x86.Build.0 = Debug|x86
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Release|x64.ActiveCfg = Release|x64
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Release|x64.Build.0 = Release|x64
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Release|x86.ActiveCfg = Release|x86
+		{D5343008-E87A-4F81-A161-3C12D60D806F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F82B08E-7385-41D1-ACBB-4BB40672825C}
+	EndGlobalSection
+EndGlobal

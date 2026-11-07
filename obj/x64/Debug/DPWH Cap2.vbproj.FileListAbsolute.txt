@@ -1,0 +1,103 @@
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Database\supply.sql
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\movement Log.rpt
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\movementlog.resx
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\movement Log.vb
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\movementlog.Designer.vb
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\movementlog.vb
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\DPWH Cap2.exe.config
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\DPWH Cap2.exe.manifest
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\DPWH Cap2.application
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\DPWH Cap2.exe
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\DPWH Cap2.pdb
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\DPWH Cap2.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.Shared.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.Web.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\MySql.Data.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\QRCoder.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Buffers.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Memory.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\ZstdSharp.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\zxing.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\zxing.presentation.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\ZXing.Windows.Compatibility.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\CRVsPackageLib.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\VsWebSite.Interop.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\EnvDTE.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\stdole.dll
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\MySql.Data.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Buffers.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Drawing.Common.pdb
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Memory.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\zxing.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\zxing.presentation.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\ZXing.Windows.Compatibility.pdb
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\ZXing.Windows.Compatibility.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\EnvDTE.xml
+C:\Users\pktow\source\repos\DPWH Cap2\bin\x64\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.vbproj.AssemblyReference.cache
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.exe.config
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.AddStock.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.changepassword.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.CRViewer.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.Employees.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.Form3.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.movementlog.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.OIC.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.QR.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.Dashboard.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.Form1.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.Form2.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.Resources.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH_Cap2.supplystockcard.resources
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.vbproj.GenerateResource.cache
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.vbproj.CoreCompileInputs.cache
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.exe.manifest
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.application
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.vbproj.Up2Date
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.exe
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.xml
+C:\Users\pktow\source\repos\DPWH Cap2\obj\x64\Debug\DPWH Cap2.pdb

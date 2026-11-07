@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\qr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:qr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\qr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:qr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\supplystockcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:supplystockcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\supplystockcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:supplystockcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\oic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:oic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\movementlog.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:movementlog.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\movementlog.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:movementlog.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\employees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:employees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|c:\\users\\pktow\\source\\repos\\dpwh cap2\\employees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:employees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5343008-E87A-4F81-A161-3C12D60D806F}|DPWH Cap2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QR.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\QR.vb",
+              "RelativeDocumentMoniker": "QR.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\QR.vb [Design]*",
+              "RelativeToolTip": "QR.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T22:04:36.712Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "supplystockcard.vb",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\supplystockcard.vb",
+              "RelativeDocumentMoniker": "supplystockcard.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\supplystockcard.vb*",
+              "RelativeToolTip": "supplystockcard.vb*",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAIwMcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T21:48:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "supplystockcard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\supplystockcard.vb",
+              "RelativeDocumentMoniker": "supplystockcard.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\supplystockcard.vb [Design]*",
+              "RelativeToolTip": "supplystockcard.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T22:04:17.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "movementlog.vb",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\movementlog.vb",
+              "RelativeDocumentMoniker": "movementlog.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\movementlog.vb*",
+              "RelativeToolTip": "movementlog.vb*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T21:48:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QR.vb",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\QR.vb",
+              "RelativeDocumentMoniker": "QR.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\QR.vb*",
+              "RelativeToolTip": "QR.vb*",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0kAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T21:48:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "movementlog.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\movementlog.vb",
+              "RelativeDocumentMoniker": "movementlog.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\movementlog.vb [Design]*",
+              "RelativeToolTip": "movementlog.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T22:03:04.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Form3.vb [Design]",
+              "RelativeToolTip": "Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T22:02:51.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employees.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Employees.vb",
+              "RelativeDocumentMoniker": "Employees.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Employees.vb [Design]",
+              "RelativeToolTip": "Employees.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T22:02:22.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-09T08:53:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employees.vb",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Employees.vb",
+              "RelativeDocumentMoniker": "Employees.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Employees.vb",
+              "RelativeToolTip": "Employees.vb",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAswOcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-28T00:11:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OIC.vb",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\OIC.vb",
+              "RelativeDocumentMoniker": "OIC.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\OIC.vb",
+              "RelativeToolTip": "OIC.vb",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAQwA8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-28T00:03:13.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "C:\\Users\\pktow\\source\\repos\\DPWH Cap2\\Form3.vb",
+              "RelativeToolTip": "Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-09T20:35:44.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
